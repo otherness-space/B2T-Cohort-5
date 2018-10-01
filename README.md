@@ -1,16 +1,16 @@
 # B2T-Cohort5 Read Me
 
 ## Contents
-##### [About](#about-rewind) | [Who](#who-rewind) | [What](#what-rewind) | [Where](#where-rewind) | [Why](#why-rewind) | [How](#how-rewind)
+##### [About](#about-) | [Who](#who-) | [What](#what-) | [Where](#where-) | [Why](#why-) | [How](#how-)
 
-#### [Notes](#notes-rewind)
+#### [Notes](#notes-)
 
-##### [Note 1](#note-1-rewind) | [Note 2](#note-2-rewind)
+##### [Note 1](#note-1-) | [Note 2](#note-2-)
 
-#### [Appendix](#appendix-rewind)
-##### [.gitattributes](#gitattributes-rewind) | [.gitignore](#gitignore-rewind) | [.exclude](#exclude-rewind)
+#### [Appendix](#appendix-)
+##### [.gitattributes](#gitattributes-) | [.gitignore](#gitignore-) | [.exclude](#exclude-)
 
-### [Credits](#credits-rewind)
+### [Credits](#credits-)
 -----------------------------------------------------------------------------------------------------------------------
 ## About [&#8810;](#b2t-cohort5-read-me)
 
