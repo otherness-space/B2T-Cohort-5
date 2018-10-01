@@ -1,4 +1,3 @@
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 # B2T-Cohort5 Read Me
 
 ## Contents
@@ -13,7 +12,7 @@
 
 ### [Credits](#credits-rewind)
 -----------------------------------------------------------------------------------------------------------------------
-## About [:rewind:](#read-me)
+## About <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><i class="material-icons">fast_rewind</i></link>(#read-me)
 
 This is a starter repo.
 
