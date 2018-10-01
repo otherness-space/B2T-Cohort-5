@@ -12,15 +12,15 @@
 
 ### [Credits](#credits-rewind)
 -----------------------------------------------------------------------------------------------------------------------
-## About [&#8810;](#b2t-cohort5-read-me)&#8810;
+## About [&#8810;](#b2t-cohort5-read-me)
 
 This is a starter repo.
 
-### Who [:rewind:](#read-me)
+### Who [&#8810;](#b2t-cohort5-read-me)
 
 Your Mom's blank repo.
 
-### What [:rewind:](#read-me)
+### What [&#8810;](#b2t-cohort5-read-me)
 
 Blank repo.
 
@@ -30,28 +30,28 @@ Blank repo.
   - [ ] D
 - [ ] E
 
-### Where [:rewind:](#read-me)
+### Where [&#8810;](#b2t-cohort5-read-me)
 
 Blank
 
-### Why [:rewind:](#read-me)
+### Why [&#8810;](#b2t-cohort5-read-me)
 
 Blank
 
-### How [:rewind:](#read-me)
+### How [&#8810;](#b2t-cohort5-read-me)
 
 ________________________________________________________________________________
-## Notes [:rewind:](#read-me)
+## Notes [&#8810;](#b2t-cohort5-read-me)
 
-### Note 1 [:rewind:](#read-me)
+### Note 1 [&#8810;](#b2t-cohort5-read-me)
 
 
-### Note 2 [:rewind:](#read-me)
+### Note 2 [&#8810;](#b2t-cohort5-read-me)
 
 ________________________________________________________________________________
-## Appendix [:rewind:](#read-me)
+## Appendix [&#8810;](#b2t-cohort5-read-me)
 
-### .gitattributes [:rewind:](#read-me)
+### .gitattributes [&#8810;](#b2t-cohort5-read-me)
 
 > Git attribute data also allows you to do some interesting things when exporting an archive of your project.
 
@@ -65,14 +65,14 @@ codesniffer.ruleset.xml export-ignore
 
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository
 
-### .gitignore [:rewind:](#read-me)
+### .gitignore [&#8810;](#b2t-cohort5-read-me)
 
 
-### .exclude [:rewind:](#read-me)
+### .exclude [&#8810;](#b2t-cohort5-read-me)
 
 ________________________________________________________________________________
 
-### Credits [:rewind:](#read-me)
+### Credits [&#8810;](#b2t-cohort5-read-me)
 
 Third party resources applied in this repo. Each resource uses a GPL compatible license. The resources are listed according to each individual license, as noted, and have links where applicable.
 
