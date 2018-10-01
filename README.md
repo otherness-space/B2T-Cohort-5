@@ -12,7 +12,7 @@
 
 ### [Credits](#credits-rewind)
 -----------------------------------------------------------------------------------------------------------------------
-## About <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><i class="material-icons">fast_rewind</i></link>(#read-me)
+## About [:rewind:](#read-me)
 
 This is a starter repo.
 
