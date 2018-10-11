@@ -1,4 +1,4 @@
-# [B2T-Cohort5](https://github.com/otherness-space/B2T-Cohort4) Read Me
+# [B2T-Cohort-5](https://github.com/otherness-space/B2T-Cohort-5) Read Me
 
 ## Contents
 
@@ -16,15 +16,15 @@
 
 * * *
 
-## About [≪](#b2t-cohort5-read-me)
+## About [≪](#b2t-cohort-5-read-me)
 
 This is a starter repo.
 
-### Who [≪](#b2t-cohort5-read-me)
+### Who [≪](#b2t-cohort-5-read-me)
 
 Your Mom's blank repo.
 
-### What [≪](#b2t-cohort5-read-me)
+### What [≪](#b2t-cohort-5-read-me)
 
 Blank repo.
 
@@ -34,29 +34,29 @@ Blank repo.
     -   [ ] D
 -   [ ] E
 
-### Where [≪](#b2t-cohort5-read-me)
+### Where [≪](#b2t-cohort-5-read-me)
 
 Blank
 
-### Why [≪](#b2t-cohort5-read-me)
+### Why [≪](#b2t-cohort-5-read-me)
 
 Blank
 
-### How [≪](#b2t-cohort5-read-me)
+### How [≪](#b2t-cohort-5-read-me)
 
 * * *
 
-## Notes [≪](#b2t-cohort5-read-me)
+## Notes [≪](#b2t-cohort-5-read-me)
 
-### Note 1 [≪](#b2t-cohort5-read-me)
+### Note 1 [≪](#b2t-cohort-5-read-me)
 
-### Note 2 [≪](#b2t-cohort5-read-me)
+### Note 2 [≪](#b2t-cohort-5-read-me)
 
 * * *
 
-## Appendix [≪](#b2t-cohort5-read-me)
+## Appendix [≪](#b2t-cohort-5-read-me)
 
-### .gitattributes [≪](#b2t-cohort5-read-me)
+### .gitattributes [≪](#b2t-cohort-5-read-me)
 
 > Git attribute data also allows you to do some interesting things when exporting an archive of your project.
 
@@ -70,13 +70,13 @@ codesniffer.ruleset.xml export-ignore
 
 <https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository>
 
-### .gitignore [≪](#b2t-cohort5-read-me)
+### .gitignore [≪](#b2t-cohort-5-read-me)
 
-### .exclude [≪](#b2t-cohort5-read-me)
+### .exclude [≪](#b2t-cohort-5-read-me)
 
 * * *
 
-### Credits [≪](#b2t-cohort5-read-me)
+### Credits [≪](#b2t-cohort-5-read-me)
 
 Third party resources applied in this repo. Each resource uses a GPL compatible license. The resources are listed according to each individual license, as noted, and have links where applicable.
 
