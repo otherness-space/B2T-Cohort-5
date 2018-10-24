@@ -4,3 +4,5 @@ theme:             jekyll-theme-hacker
 # description:       [A short description of your site's purpose]
 
 # google_analytics:  [Your Google Analytics tracking ID]
+
+incremental: true
