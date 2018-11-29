@@ -1,64 +1,26 @@
-let toggleButton = document.getElementById('toggleButton');
+document.getElementById('boxOne').addEventListener('mouseover', makeBoxGreen);
 
-function changeToggleButton() {
-  if (toggleButton.value === 'ON') {
-    toggleButton.value = 'OFF';
-  } else {
-    toggleButton.value = 'ON';
-  }
-}
+document.getElementById('boxOne').addEventListener('mouseleave', makeBoxRed);
 
 document.getElementById('toggleButton').addEventListener('click', changeToggleButton);
 
-// ---------------------------------------------------------------
-
-/*
-function makeBoxGreen(){
-	document.getElementById('myBox').style.backgroundColor = 'green';
+function changeToggleButton(){
+	let toggleButton = document.getElementById('toggleButton');
+	if( toggleButton.value === 'ON' ){
+		toggleButton.value = 'OFF';
+		document.getElementById('boxOne').removeEventListener('mouseover', makeBoxGreen);
+	}else{
+		toggleButton.value = 'ON';
+		document.getElementById('boxOne').addEventListener('mouseover', makeBoxGreen);
+	}
 }
 
-document.getElementById('myBox').addEventListener('mouseover', makeBoxGreen);
 
+
+function makeBoxGreen(){
+	document.getElementById('boxOne').style.backgroundColor = 'green';
+}
 
 function makeBoxRed(){
-	document.getElementById('myBox').style.backgroundColor = 'red';
+	document.getElementById('boxOne').style.backgroundColor = 'red';
 }
-
-document.getElementById('myBox').addEventListener('mouseleave', makeBoxRed);
-*/
-
-let myBox = document.getElementById('myBox');
-
-function changeBoxColor() {
-  if (toggleButton.value === 'ON' && myBox.style.backgroundColor === 'red') {
-    myBox.style.backgroundColor = 'green';
-  } else {
-    myBox.style.backgroundColor = 'red';
-  }
-}
-
-document.getElementById('myBox').addEventListener('mouseover', changeBoxColor);
-document.getElementById('myBox').addEventListener('mouseleave', changeBoxColor);
-
-// ------------------------------------------------------------
-
-
-let buttonClicks = 0;
-
-function increaseButtonClicks() {
-  buttonClicks++;
-  document.getElementById('myButton').value = buttonClicks + ' clicks';
-  console.log(buttonClicks + ' clicks');
-}
-
-// ------------------------------------------------------------
-
-let buttonClicks2 = 0;
-
-function increaseButtonClicks2() {
-  buttonClicks2++;
-  document.getElementById('myButton2').value = buttonClicks2 + ' clicks';
-  console.log(buttonClicks2 + ' clicks');
-}
-
-document.getElementById('myButton2').addEventListener('click', increaseButtonClicks2);
